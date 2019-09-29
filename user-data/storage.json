@@ -1384,5 +1384,18 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/kizashi/Documents"
+    "pickerWorkingDir": "/home/kizashi/Documents",
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/kizashi/Downloads/VSCode-linux-x64/data/user-data/Backups/1569726094002",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 60,
+                "width": 1920,
+                "height": 971
+            }
+        },
+        "openedWindows": []
+    }
 }
